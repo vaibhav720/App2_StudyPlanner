@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">finApp</string>
+    <string-array name="plan_array">
+        <item>Study</item>
+        <item>Play</item>
+        <item>Exercise</item>
+        <item>Hobby</item>
+    </string-array>
+</resources>
